@@ -2,7 +2,6 @@ import java.util.Scanner;
 public class Prog { 
 public static void main (String[] args){
             double nota1,nota2,nota3,media;
-        @SuppressWarnings("resource")
         Scanner leitor = new Scanner(System.in);
         System.out.println("Digite a Primeira nota: ");
         nota1 = leitor.nextDouble();
