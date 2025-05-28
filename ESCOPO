@@ -1,0 +1,6 @@
+O sistema terá uma biblioteca de jogos com nomes e informações de jogos, que o usuário terá acesso e fará o controle com base dos jogos que ele tem.
+- O sistema terá uma criação de usuário.
+- No cadastro terá seu nome, email, senha, data de nascimento e o endereço completo.
+- O sistema terá o cadastro de jogos, que deverá ser feito para o uso do usuário.
+- no cadastro de jogo terá o nome, nome da empresa que produziu e empresa de lançamento, genero e ano de lançamento.
+- funcionará com um sistema de escolha entre 3 listas "quero jogar", "já joguei" e "estou jogando". 
